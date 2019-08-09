@@ -1,0 +1,60 @@
+2019-08-09 21:48:49 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:48:49 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=693 in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:48:49 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:48:49 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:48:49 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:51:04 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:51:04 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=692 in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:51:04 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:51:04 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:51:04 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:53:11 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:53:11 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=190 in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:53:11 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:53:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:53:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:54:15 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:54:15 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=694 in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:54:15 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:54:15 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:54:15 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:54:54 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:54:54 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=692 in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:54:54 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:54:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:54:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:55:06 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:55:06 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=692 in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:55:06 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:55:06 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:55:06 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:59:33 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:59:33 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=604 in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:59:33 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:59:33 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:59:33 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:59:50 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:59:50 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=693 in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:59:50 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 21:59:50 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 21:59:50 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 22:00:02 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 22:00:02 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=693 in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 22:00:02 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 22:00:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 22:00:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 22:00:17 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 22:00:17 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=605 in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 22:00:17 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 22:00:17 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 22:00:17 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 22:08:32 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 22:08:32 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=694 in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 22:08:32 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 22:08:32 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 22:08:32 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 22:31:48 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 22:31:48 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=692 in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 22:31:48 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 7
+2019-08-09 22:31:48 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
+2019-08-09 22:31:48 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Users/admin/Sites/ecommerce_site/system/library/db/mysqli.php on line 10
