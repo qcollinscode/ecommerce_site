@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qcollinscode/ecommerce_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qcollinscode/ecommerce_site/issues"
+  },
+  "homepage": "https://github.com/qcollinscode/ecommerce_site#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "php-server": "^0.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
